@@ -7,7 +7,7 @@ target 'RxSwiftSample' do
 
   # Pods for SwiftMVVMSample
   pod 'ObjectMapper'
-  pod 'Moya'
+  pod 'Moya/RxSwift'
   pod 'RxCocoa'
   pod 'RxSwift'
 
